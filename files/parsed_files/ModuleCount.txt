@@ -1,0 +1,40 @@
+
+Output for counting all of the instances in "TopCell" hierarchy:
+invN1          : 69 placements
+nand4N1        : 9 placements
+nand2N1        : 12 placements
+cellA          : 9 placements
+nor2N1         : 8 placements
+bufferCell     : 8 placements
+cellB          : 2 placements
+cellC          : 2 placements
+cellD          : 1 placements
+
+Output for counting all of the instances in "bufferCell" hierarchy:
+invN1          : 2 placements
+
+Output for counting all of the instances in "cellA" hierarchy:
+invN1          : 4 placements
+nand4N1        : 1 placements
+
+Output for counting all of the instances in "cellB" hierarchy:
+invN1          : 10 placements
+nand2N1        : 1 placements
+nor2N1         : 2 placements
+bufferCell     : 4 placements
+
+Output for counting all of the instances in "cellC" hierarchy:
+invN1          : 18 placements
+nand4N1        : 4 placements
+nand2N1        : 2 placements
+cellA          : 4 placements
+
+Output for counting all of the instances in "cellD" hierarchy:
+invN1          : 44 placements
+nand2N1        : 8 placements
+nor2N1         : 8 placements
+bufferCell     : 8 placements
+nand4N1        : 4 placements
+cellA          : 4 placements
+cellB          : 2 placements
+cellC          : 1 placements
